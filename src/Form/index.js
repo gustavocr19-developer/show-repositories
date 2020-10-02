@@ -89,7 +89,7 @@ const Form = () => {
             description,
             language
           })
-
+          return console.log('value')
         })
 
         setList(arr)
@@ -141,7 +141,7 @@ const Form = () => {
         <Col span={24} >
           {(list.length === 0 ?
             <p className='no-data'>
-              Fill out input field above, to find user repositories 👋.
+              Fill out input field above, to find user repositories.
             </p>
             :
             <Table

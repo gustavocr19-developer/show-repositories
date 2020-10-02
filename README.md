@@ -1,15 +1,11 @@
 ### Install
 
-npx create-react-app 
-npm install antd
-
-### Use
-
 npm install 
 
 ### Run
 
 npm start
+yarn start
 
 ### Como foi esse projeto
 
