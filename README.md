@@ -7,6 +7,10 @@ npm install
 npm start
 yarn start
 
+### LIVE DEMO
+
+https://show-github-repositories.netlify.app/
+
 ### Como foi esse projeto
 
 Esse projeto consiste em uma requisição simples, como entrada o username do GitHub é passado na requisição
